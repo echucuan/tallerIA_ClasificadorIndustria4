@@ -10,7 +10,7 @@
 
 | # | Taller | Tema central | Duración | Abrir |
 |---|--------|-------------|----------|-------|
-| 01 | **Clasificador Perro vs Gato** | Redes Neuronales Convolucionales (CNN) | ~60 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/Taller_IA_PerroGato_V02.ipynb) |
+| 01 | **Clasificador Perro vs Gato** | Redes Neuronales Convolucionales (CNN) | ~60 min | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/echucuan/tallerIA_clasificadorIndustria4/blob/main/Taller_IA_PerroGato_V02.ipynb) |
 
 > 🔜 Próximamente: Detección de objetos, NLP, Modelos generativos
 
@@ -66,7 +66,7 @@ El taller termina con un experimento sorpresa: ¿qué pasa si le mostramos a nue
 ### Opción B — Local
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPO.git
+git clone https://github.com/tallerIA_clasificadorIndustria4.git
 cd taller-ia
 pip install -r requirements.txt
 jupyter notebook Taller_IA_PerroGato_V02.ipynb
